@@ -1,0 +1,83 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.37.32826.1",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/dell/documents/visual studio 2022/final project dsa/main.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "a914325ced034476bab71f0a98412d0b5988d6232d901cd35de432e341eb09a7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dell/documents/visual studio 2022/final project dsa/introduction.h"
+          },
+          "hashes": {
+            "sha-256": "2565be0c85537ef1e50df84e6b7697cd6b492f6ee0405773ef954ef5cfec698f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dell/documents/visual studio 2022/final project dsa/mainmenu.h"
+          },
+          "hashes": {
+            "sha-256": "6cb907d3e746c8a5419896184da8807bb043fe3952b5f7955e1568666ca6e7b4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dell/documents/visual studio 2022/final project dsa/clearandwait.h"
+          },
+          "hashes": {
+            "sha-256": "742f51f37fe0173eba449003f72b095b7822a5f65c600a952cd7b8d69eaff4eb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dell/documents/visual studio 2022/final project dsa/costumer.h"
+          },
+          "hashes": {
+            "sha-256": "9a72ec3c27cdb2d7c5742e7c4a4a2260d97fd466c9ea5a21fdf9c1a8933767f0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dell/documents/visual studio 2022/final project dsa/date.h"
+          },
+          "hashes": {
+            "sha-256": "f4c914c710aeb79f09ca8adf35f4765545a4cdc892870773d60465359828a208"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dell/documents/visual studio 2022/final project dsa/room.h"
+          },
+          "hashes": {
+            "sha-256": "18b5ed54dc62501269db0ffa2d372bc0dd5764fb7b539a9fd8f6a9e17dc4efd3"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -17,9 +17,6 @@
 # Build folders
 [Bb]in/
 [Oo]bj/
-x64/
-x86/
-Debug/
 Release/
 Build/
 *.VC.db
